@@ -1,0 +1,24 @@
+div.bar {
+    width: 500px;
+    height: auto;
+}
+
+div.menu {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+
+div.svg {
+    height: 100%;
+    width: 100%;
+    overflow: auto;
+}
+
+input {
+    display: inline;
+}
+
+h1 {
+    display: inline;
+}
